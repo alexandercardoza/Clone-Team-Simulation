@@ -1,7 +1,7 @@
 # Clone Team Simulation
 
 ## Description
-This program measures a baseball player's perfomance based on the runs scored by a hypothetical team made up of that player's clones. The user inputs statistics from a singular season and the program returns runs/inning and runs/game over the desired amount of simulations.
+This program measures a baseball player's performance based on the runs scored by a hypothetical team made up of that player's clones. The user inputs statistics from a singular season and the program returns runs/inning and runs/game over the desired amount of simulations.
 
 ## Files
 - cloneteam_montecarlo.py
