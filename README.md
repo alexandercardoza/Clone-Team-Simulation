@@ -1,7 +1,7 @@
 # Clone Team Simulation
 
 ## Description
-This program measures a baseball player's performance based on the runs scored by a hypothetical team made up of that player's clones. The user inputs statistics from a singular season and the program returns runs/inning and runs/game over the desired amount of simulations.
+This program measures a baseball player's performance based on the runs scored by a hypothetical team made up of that player's clones. The user simply inputs the desired player's first and last name followed by the year of interest. The Clone Team Simulation then collects the necessary statistics to determine the performance of a clone team over the span of the desired amount of innings.
 
 ## Libraries Used
 - Pandas
