@@ -3,6 +3,11 @@
 ## Description
 This program measures a baseball player's performance based on the runs scored by a hypothetical team made up of that player's clones. The user inputs statistics from a singular season and the program returns runs/inning and runs/game over the desired amount of simulations.
 
+## Libraries Used
+- Pandas
+- Numpy
+- Pybaseball (https://github.com/jldbc/pybaseball)
+
 ## Files
 - cloneteam_montecarlo.py
   - Monte Carlo Simulation
