@@ -35,4 +35,4 @@ AB: At Bat
 
 
 ## Twitter
-Follow @cozystats on Twitter for interesting baseball statistics and graphics
+Follow @cozybaseball on Twitter for interesting baseball statistics and graphics
